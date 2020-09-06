@@ -1,0 +1,28 @@
+.btn{
+    margin-left: 750px;
+    margin-top: -100px;
+    padding: 3px 20px;
+    font-size: 15px;
+    text-align: center;
+    cursor: pointer;
+    outline: none;
+    color: rgb(221, 220, 220);
+    font-weight: 700;
+    opacity: 0.6;
+    background-color: rgb(57, 5, 105);
+    border: none;
+    border-radius: 15px;
+    }
+.header h4{
+    color: rgb(184, 176, 176);
+    font-weight: 600;
+    font-size: 20px;
+}
+.header strong{
+    opacity: 5;
+    color: rgb(41, 40, 40);
+    font-weight: 600;
+}
+.header span{
+    font-size: 12px;
+}

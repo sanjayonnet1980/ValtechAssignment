@@ -1,0 +1,71 @@
+body{
+    background: radial-gradient(#e5e5e5, #ffff, #e5e5e5);
+}
+.card{
+    width: 20rem;
+    height: 106%;
+    margin-left: 130px;
+}
+.card:hover{
+    box-shadow: 5px 10px 20px 1px rgb(0, 0, 0, 0.253    ) !important;
+}
+.container-fluid .row{
+    padding-top: 6rem;
+}
+.logo img{
+    margin-left: 20px;
+    margin-top: 10px;
+    border: 1px solid;
+    width: 60px;
+    height: 70px;
+}
+.card-title h5{
+    margin-left: 140px;  
+    margin-top: -50px;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+}
+.desc p{
+    font-size: 12px;
+    opacity: 0.5;
+    padding: 10px 20px;
+}
+.imgTitle u{
+    margin-left: 20px;
+    font-size: 12px;
+    color: rgb(53, 3, 189);
+    font-weight: 550;
+}
+.imgURL img{
+    padding: 10px;
+    border-radius: 15px;
+}
+.imgtitle-location{
+    font-size: 10px;
+    color: white;
+    margin-top: -50px;
+    padding: 10px 30px;
+}
+.totalExp{
+    margin-left: 140px;
+    margin-top: -30px;
+    font-size: 12px;
+}
+.totalExp strong{
+    font-weight: 800;
+}
+.totalExp p{
+    opacity: .5;
+}
+.totalProjects{
+    margin-left: 230px;
+    margin-top: -50px;
+    font-size: 12px;
+}
+.totalProjects strong{
+    font-weight: 800;
+}
+.totalProjects p{
+    opacity: .5;
+}
